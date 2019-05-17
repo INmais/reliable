@@ -12,15 +12,14 @@ dimensions:
 
 2) increasing the spatial and time resolution of the warnings, when possible to the statistical subsection level (BGRI), otherwise at least at the parish level.
 
-$ automating-gis-processes.github.io/exercise-5-MyGitHubUserName
-
+## Case study (Montalegre, PT)
 
 ![alt text](https://github.com/INmais/reliable/blob/master/data_notebooks/ivreliable.png "Vulnerability index")
 
 
 Link:
 
-[Link to interactive map](https://inmais.github.io/reliable/map.html)
+[Link to interactive map](https://github.com/INmais/reliable/blob/master/docs/map.html)
 
 ## Entities
 
