@@ -3,6 +3,10 @@ To this page you should add links to your interactive html-maps that are located
 
 automating-gis-processes.github.io/exercise-5-MyGitHubUserName
 
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 Here is an example how to do it in MarkDown for user HTenkanen:
 
 [Link to test map](https://inmais.github.io/reliable/map.html)
