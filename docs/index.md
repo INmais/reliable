@@ -14,7 +14,7 @@ dimensions:
 
 ## Case study (Montalegre, PT)
 
-![alt text](/ivreliable.png "Vulnerability index")
+![](https://github.com/INmais/reliable/blob/master/docs/ivreliable.png "Vulnerability index")
 
 
 Link:
