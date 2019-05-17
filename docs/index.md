@@ -19,7 +19,7 @@ dimensions:
 
 Link:
 
-[Link to interactive map](https://github.com/INmais/reliable/blob/master/docs/map.html)
+[Link to interactive map](https://raw.githubusercontent.com/INmais/reliable/master/docs/map.html)
 
 ## Entities
 
