@@ -35,11 +35,13 @@ Census 2011: http://mapas.ine.pt/download/index2011.phtml
 ### ZIP Codes
 
 Entity: CTT
+
 https://www.ctt.pt/feapl_2/app/open/postalCodeSearch/postalCodeSearch.jspx
 
 ### Vegetation Index calculation from Satellite Imagery
 
 Entity: ESA
+
 data: https://scihub.copernicus.eu/dhus/#/home
 
 ### Language
