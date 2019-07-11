@@ -1,0 +1,25 @@
+Must run with python version 3.
+
+files:
+ reliable_getMeteo_config.py
+ reliable_getMeteo.py
+
+default run:
+ python reliable_getMeteo.py
+
+ The script creates a file in JSON format with downloaded forecast data from http://meteo.tecnico.ulisboa.pt
+ All configurations are in reliable_getMeteo_config.py
+
+
+ Examples:
+  ## get help
+  python reliable_getMeteo.py -h
+
+  ## output on screen
+  python reliable_getMeteo.py -o
+
+  ## output on file with verbose
+  python reliable_getMeteo.py -vv
+
+  ## output on file with no verbose
+  python reliable_getMeteo.py -nv
