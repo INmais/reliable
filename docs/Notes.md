@@ -7,9 +7,9 @@ GIS
 ETRS89 Portugal TM06
 Timezone (Lisbon)
 
-shapefile INE:  {'init' :'epsg:3763'}
-googlemaps and folium: ({'init': 'epsg:4326'})
-sentinet 2 (ESA): ({'init': 'epsg:32629'})
+* shapefile INE:  {'init' :'epsg:3763'}
+* googlemaps and folium: ({'init': 'epsg:4326'})
+* sentinet 2 (ESA): ({'init': 'epsg:32629'})
 
 Shapefiles
 
