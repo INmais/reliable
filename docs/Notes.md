@@ -59,6 +59,9 @@ url: https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOES
 
 ### Weather forecast 
 
+Entity: MARETEC
+script: https://github.com/INmais/reliable/tree/master/docs/reliable_getMeteo
+
 
 ### Language
 
