@@ -18,7 +18,7 @@ Heat waves are formally defined by the World Health Organization as a period of 
 Benckmarks
 
 + 32º or 30.5º for 6 days consecutive days
-if there is a day that is less (discount, -1), not start again counting (problem os consecutive waves)
+if there is a day that is less (discount, -1), not start again counting (problem of consecutive waves)
 
 ### EE Certificates
 
@@ -43,6 +43,22 @@ https://www.ctt.pt/feapl_2/app/open/postalCodeSearch/postalCodeSearch.jspx
 Entity: ESA
 
 data: https://scihub.copernicus.eu/dhus/#/home
+
+### Informação dos Certificados de Óbito (SICO)
+
+Entity: Direção-Geral da Saúde
+
+data: https://evm.min-saude.pt/
+
+
+### Causas de morte - 2017
+
+Entity:INE
+
+url: https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=358633033&PUBLICACOESmodo=2
+
+### Weather forecast 
+
 
 ### Language
 
