@@ -61,11 +61,67 @@ Entity:INE
 
 url: https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=358633033&PUBLICACOESmodo=2
 
+### Healthcare
+
+% de episódios (ambulatório e internamento), registados nos GDH com pelo menos um diagnóstico dos códigos 410-414 (CID 9)
+
+https://transparencia.sns.gov.pt/explore/
+
+
+Evolução Diária do Índice-Alerta-ÍCARO (ÍCARO é um instrumento de observação no âmbito do qual se estuda o efeito de fatores climáticos na saúde humana.)
+
+url: http://www2.insa.pt/sites/INSA/Portugues/AreasCientificas/Epidemiologia/Unidades/UnInstrObser/Paginas/ICARO.aspx (tem metodologia e estão usar dados IPMA)
+
+Atividade de Prestação do SNS 24 para Problemas relacionados com Calor e Exposição Solar
+
+Other
+
+Evolução Mensal das Ocorrências Pré-Hospitalares por Tipologia
+
+Chamadas de Emergência Transferidas para a Saúde 24
+
+Trabalho Noturno, Normal e Suplementar
+
+Atividade do Síndrome Gripal nos Cuidados de Saúde Primários
+
+Atendimentos por Tipo de Urgência Hospitalar
+
+Atividade nos Cuidados Saúde Primários - Monitorização Sazonal
+
+Atendimentos em Urgência Hospitalar por Triagem de Manchester
+
+Taxa de Ocupação Hospitalar
+
+Atividade de Prestação do SNS 24 para a Síndrome Gripal
+
+Frequência de Casos Confirmados de Gripe
+
+Incidência Semanal de Síndrome Gripal
+
+https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes
+
+https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=320460040&PUBLICACOESmodo=2
+
+Estatísticas da Saúde - 2017 Ano de Edição: 2019
+
+https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=384207665&PUBLICACOESmodo=2
+
+https://comum.rcaap.pt/bitstream/10400.26/22528/1/Morbilidade%20Hospitalar%20-%20Servi%c3%a7o%20Nacional%20de%20Sa%c3%bade%20-%202016.%20Portugal%20Continental.pdf
+
+http://www2.acss.min-saude.pt/Default.aspx?TabId=460&language=pt-PT Base de Dados Nacional de Grupo de Diagnóstico Homogéneo (GDH) Base de Dados Nacional de Grupo de Diagnóstico Homogéneo Administração Central do Sistema de Saúde (ACSS) geral@acss.min-saude.pt
+Codificar segundo CID9 MC os episódios de internamento e ambulatório das instituições Informação recolhida nas instituições hospitalares através de ficheiro que é carregado na base de dados nacional. Mensal Organismos do Ministério da saúde, Universidades e outras instituições que solicitam https://dados.gov.pt/en/datasets/morbilidade-e-mortalidade-hospitalar/
+
+##INE/Income Tax
+
+Estatísticas do rendimento ao nível local - indicadores de rendimento declarado no IRS - 2017 Ano de Edição: 2019
+
+http://dis.dgs.pt/2010/08/23/base-de-dados-nacional-de-grupo-de-diagnostico-homogeneo-gdh/
+
+
 ### Weather forecast 
 
 Entity: MARETEC
 script: https://github.com/INmais/reliable/tree/master/docs/reliable_getMeteo
-
 
 ### Language
 
