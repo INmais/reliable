@@ -48,6 +48,10 @@ Entity: ESA
 
 data: https://scihub.copernicus.eu/dhus/#/home
 
+### CORINE Land Cover
+
+data: https://land.copernicus.eu/pan-european/corine-land-cover
+
 ### Informação dos Certificados de Óbito (SICO)
 
 Entity: Direção-Geral da Saúde
@@ -74,7 +78,7 @@ url: http://www2.insa.pt/sites/INSA/Portugues/AreasCientificas/Epidemiologia/Uni
 
 Atividade de Prestação do SNS 24 para Problemas relacionados com Calor e Exposição Solar
 
-Other
+#### Other
 
 Evolução Mensal das Ocorrências Pré-Hospitalares por Tipologia
 
@@ -111,7 +115,7 @@ https://comum.rcaap.pt/bitstream/10400.26/22528/1/Morbilidade%20Hospitalar%20-%2
 http://www2.acss.min-saude.pt/Default.aspx?TabId=460&language=pt-PT Base de Dados Nacional de Grupo de Diagnóstico Homogéneo (GDH) Base de Dados Nacional de Grupo de Diagnóstico Homogéneo Administração Central do Sistema de Saúde (ACSS) geral@acss.min-saude.pt
 Codificar segundo CID9 MC os episódios de internamento e ambulatório das instituições Informação recolhida nas instituições hospitalares através de ficheiro que é carregado na base de dados nacional. Mensal Organismos do Ministério da saúde, Universidades e outras instituições que solicitam https://dados.gov.pt/en/datasets/morbilidade-e-mortalidade-hospitalar/
 
-##INE/Income Tax
+### INE/Income Tax
 
 Estatísticas do rendimento ao nível local - indicadores de rendimento declarado no IRS - 2017 Ano de Edição: 2019
 
