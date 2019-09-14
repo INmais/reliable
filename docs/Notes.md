@@ -145,5 +145,11 @@ script: https://github.com/INmais/reliable/tree/master/docs/reliable_getMeteo
 
 R and Python
 
+## Check
 
+Planning for sustainable cities by estimating building occupancy with mobile phones
+https://www.nature.com/articles/s41467-019-11685-w
+
+The TimeGeo modeling framework for urban mobility without travel surveys
+https://www.pnas.org/content/113/37/E5370
 
