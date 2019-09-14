@@ -125,6 +125,8 @@ url: https://comum.rcaap.pt/bitstream/10400.26/22528/1/Morbilidade%20Hospitalar%
 
 http://www2.acss.min-saude.pt/Default.aspx?TabId=460&language=pt-PT Base de Dados Nacional de Grupo de Diagnóstico Homogéneo (GDH) Base de Dados Nacional de Grupo de Diagnóstico Homogéneo Administração Central do Sistema de Saúde (ACSS) geral@acss.min-saude.pt
 
+http://dis.dgs.pt/2010/08/23/base-de-dados-nacional-de-grupo-de-diagnostico-homogeneo-gdh/
+
 ### Morbilidade e Mortalidade Hospitalar
 Codificar segundo CID9 MC os episódios de internamento e ambulatório das instituições Informação recolhida nas instituições hospitalares através de ficheiro que é carregado na base de dados nacional. Mensal Organismos do Ministério da saúde, Universidades e outras instituições que solicitam 
 url: https://dados.gov.pt/en/datasets/morbilidade-e-mortalidade-hospitalar/
@@ -132,8 +134,8 @@ url: https://dados.gov.pt/en/datasets/morbilidade-e-mortalidade-hospitalar/
 ### INE/Income Tax
 
 Estatísticas do rendimento ao nível local - indicadores de rendimento declarado no IRS - 2017 Ano de Edição: 2019
+https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=384208622&PUBLICACOESmodo=2&xlang=pt
 
-http://dis.dgs.pt/2010/08/23/base-de-dados-nacional-de-grupo-de-diagnostico-homogeneo-gdh/
 
 
 ### Weather forecast 
