@@ -11,9 +11,11 @@ Timezone (Lisbon)
 * googlemaps and folium: ({'init': 'epsg:4326'})
 * sentinet 2 (ESA): ({'init': 'epsg:32629'})
 
-Shapefiles
+### Shapefiles
 
-http://mapas.ine.pt/download/index2011.phtml
+Entity: INE
+
+url: http://mapas.ine.pt/download/index2011.phtml
 
 Extreme weather
 
@@ -51,6 +53,11 @@ data: https://scihub.copernicus.eu/dhus/#/home
 ### CORINE Land Cover
 
 data: https://land.copernicus.eu/pan-european/corine-land-cover
+
+## EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification
+
+url: https://github.com/phelber/eurosat
+paper: https://arxiv.org/abs/1709.00029
 
 ### Informação dos Certificados de Óbito (SICO)
 
@@ -102,18 +109,25 @@ Frequência de Casos Confirmados de Gripe
 
 Incidência Semanal de Síndrome Gripal
 
-https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes
 
-https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=320460040&PUBLICACOESmodo=2
 
-Estatísticas da Saúde - 2017 Ano de Edição: 2019
+### Estatísticas da Saúde - 2017 Ano de Edição: 2019
+Entity: INE
+URL: https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=384207665&PUBLICACOESmodo=2
 
-https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=384207665&PUBLICACOESmodo=2
+### Morbilidade Hospitalar – Serviço Nacional de Saúde – 2016. Portugal Continental
 
-https://comum.rcaap.pt/bitstream/10400.26/22528/1/Morbilidade%20Hospitalar%20-%20Servi%c3%a7o%20Nacional%20de%20Sa%c3%bade%20-%202016.%20Portugal%20Continental.pdf
+Entity: Direção-Geral da Saúde
+
+url: https://comum.rcaap.pt/bitstream/10400.26/22528/1/Morbilidade%20Hospitalar%20-%20Servi%c3%a7o%20Nacional%20de%20Sa%c3%bade%20-%202016.%20Portugal%20Continental.pdf
+
+### Grupos de Diagnósticos Homogéneos (GDH) 
 
 http://www2.acss.min-saude.pt/Default.aspx?TabId=460&language=pt-PT Base de Dados Nacional de Grupo de Diagnóstico Homogéneo (GDH) Base de Dados Nacional de Grupo de Diagnóstico Homogéneo Administração Central do Sistema de Saúde (ACSS) geral@acss.min-saude.pt
-Codificar segundo CID9 MC os episódios de internamento e ambulatório das instituições Informação recolhida nas instituições hospitalares através de ficheiro que é carregado na base de dados nacional. Mensal Organismos do Ministério da saúde, Universidades e outras instituições que solicitam https://dados.gov.pt/en/datasets/morbilidade-e-mortalidade-hospitalar/
+
+### Morbilidade e Mortalidade Hospitalar
+Codificar segundo CID9 MC os episódios de internamento e ambulatório das instituições Informação recolhida nas instituições hospitalares através de ficheiro que é carregado na base de dados nacional. Mensal Organismos do Ministério da saúde, Universidades e outras instituições que solicitam 
+url: https://dados.gov.pt/en/datasets/morbilidade-e-mortalidade-hospitalar/
 
 ### INE/Income Tax
 
@@ -129,7 +143,7 @@ script: https://github.com/INmais/reliable/tree/master/docs/reliable_getMeteo
 
 ### Language
 
-Python
+R and Python
 
 
 
