@@ -31,6 +31,7 @@ if there is a day that is less (discount, -1), not start again counting (problem
 Entity: ADENE
 
 data: https://www.sce.pt/pesquisa-certificados/
+(try to get with selenium)
 
 ### Population per BGRI
 
