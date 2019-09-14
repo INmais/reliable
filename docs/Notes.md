@@ -137,6 +137,17 @@ url: https://dados.gov.pt/en/datasets/morbilidade-e-mortalidade-hospitalar/
 Estatísticas do rendimento ao nível local - indicadores de rendimento declarado no IRS - 2017 Ano de Edição: 2019
 https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=384208622&PUBLICACOESmodo=2&xlang=pt
 
+### Recenseados 2017 por freguesia
+Resultados do recenseamento eleitoral à data de referência 16-setembro-2017 (Data do encerramento dos cadernos para a eleição) [em formato Excel] 
+url: https://www.sg.mai.gov.pt/AdministracaoEleitoral/EleicoesReferendos/AutarquiasLocais/Paginas/default.aspx?FirstOpen=1
+
+### Airbnb Data Collection: Get the Data
+https://github.com/tomslee/airbnb-data-collection
+
+### Plataforma de Dados Abertos Georreferenciados do Turismo de Portugal, IP
+https://dadosabertos.turismodeportugal.pt/
+
+Dormidas: https://travelbi.turismodeportugal.pt/pt-pt/Paginas/PowerBI/dormidas.aspx
 
 ### Weather forecast 
 
