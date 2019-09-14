@@ -137,11 +137,18 @@ Estatísticas do rendimento ao nível local - indicadores de rendimento declarad
 https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=384208622&PUBLICACOESmodo=2&xlang=pt
 
 
-
 ### Weather forecast 
 
 Entity: MARETEC
 script: https://github.com/INmais/reliable/tree/master/docs/reliable_getMeteo
+
+### IPMA (historical data)
+valores médios horários de temperatura e humidade relativa (paid, few gaps)
+
+### Portugal Weather Stations data
+Portugal Weather Stations data (from 01 Jan 2016 to 01 Jan 2019)
+https://inmais.github.io/portugal-weather-stations/
+
 
 ### Language
 
@@ -154,4 +161,7 @@ https://www.nature.com/articles/s41467-019-11685-w
 
 The TimeGeo modeling framework for urban mobility without travel surveys
 https://www.pnas.org/content/113/37/E5370
+
+Social Physics: Uncovering Human Behaviour from Communication
+https://arxiv.org/abs/1804.04907v1
 
