@@ -17,6 +17,8 @@ Entity: INE
 
 url: http://mapas.ine.pt/download/index2011.phtml
 
+Dimensions: BGRI / 2011 obs.
+
 Extreme weather
 
 Heat waves are formally defined by the World Health Organization as a period of 6 consecutive days in which there is a daily maximum temperature above 5 ° C to the average daily value for the reference period.
@@ -33,11 +35,15 @@ Entity: ADENE
 data: https://www.sce.pt/pesquisa-certificados/
 (try to get with selenium)
 
+Dimensions: only traded/new buildings/address
+
 ### Population per BGRI
 
 Entity: INE
 
 Census 2011: http://mapas.ine.pt/download/index2011.phtml
+
+Dimensions: BGRI / 2011 obs.
 
 ### ZIP Codes
 
@@ -51,9 +57,13 @@ Entity: ESA
 
 data: https://scihub.copernicus.eu/dhus/#/home
 
+Dimensions: 10m / 5 days obs.
+
 ### CORINE Land Cover
 
 data: https://land.copernicus.eu/pan-european/corine-land-cover
+
+Dimensions: Minimum Mapping Unit (MMU) of 25 hectares (ha) for areal phenomena and a minimum width of 100 m for linear phenomen / 2018 obs.
 
 ## EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification
 
@@ -66,6 +76,7 @@ Entity: Direção-Geral da Saúde
 
 data: https://evm.min-saude.pt/
 
+Dimensions: municipality /  day obs./uptadated
 
 ### Causas de morte - 2017
 
@@ -111,7 +122,6 @@ Frequência de Casos Confirmados de Gripe
 Incidência Semanal de Síndrome Gripal
 
 
-
 ### Estatísticas da Saúde - 2017 Ano de Edição: 2019
 Entity: INE
 URL: https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=384207665&PUBLICACOESmodo=2
@@ -137,12 +147,18 @@ url: https://dados.gov.pt/en/datasets/morbilidade-e-mortalidade-hospitalar/
 Estatísticas do rendimento ao nível local - indicadores de rendimento declarado no IRS - 2017 Ano de Edição: 2019
 https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOESpub_boui=384208622&PUBLICACOESmodo=2&xlang=pt
 
+Dimensions: Municipality / 2017 obs.
+
 ### Recenseados 2017 por freguesia
 Resultados do recenseamento eleitoral à data de referência 16-setembro-2017 (Data do encerramento dos cadernos para a eleição) [em formato Excel] 
 url: https://www.sg.mai.gov.pt/AdministracaoEleitoral/EleicoesReferendos/AutarquiasLocais/Paginas/default.aspx?FirstOpen=1
 
+Dimensions: Parish / 2017 obs
+
 ### Airbnb Data Collection: Get the Data
 https://github.com/tomslee/airbnb-data-collection
+
+Dimensions: city/geocoding / updated
 
 ### Plataforma de Dados Abertos Georreferenciados do Turismo de Portugal, IP
 https://dadosabertos.turismodeportugal.pt/
