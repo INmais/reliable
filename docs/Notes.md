@@ -142,6 +142,8 @@ http://dis.dgs.pt/2010/08/23/base-de-dados-nacional-de-grupo-de-diagnostico-homo
 Codificar segundo CID9 MC os episódios de internamento e ambulatório das instituições Informação recolhida nas instituições hospitalares através de ficheiro que é carregado na base de dados nacional. Mensal Organismos do Ministério da saúde, Universidades e outras instituições que solicitam 
 url: https://dados.gov.pt/en/datasets/morbilidade-e-mortalidade-hospitalar/
 
+Dimensions: Entity/Região de Saude / monthly.
+
 ### INE/Income Tax
 
 Estatísticas do rendimento ao nível local - indicadores de rendimento declarado no IRS - 2017 Ano de Edição: 2019
