@@ -88,7 +88,7 @@ url: https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_publicacoes&PUBLICACOES
 
 % de episódios (ambulatório e internamento), registados nos GDH com pelo menos um diagnóstico dos códigos 410-414 (CID 9)
 
-https://transparencia.sns.gov.pt/explore/
+https://transparencia.sns.gov.pt/explore/dataset/morbilidade-e-mortalidade-hospitalar/table/?sort=periodo
 
 
 Evolução Diária do Índice-Alerta-ÍCARO (ÍCARO é um instrumento de observação no âmbito do qual se estuda o efeito de fatores climáticos na saúde humana.)
