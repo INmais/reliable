@@ -17,3 +17,13 @@ https://energydata.info/dataset/world-direct-normal-irradiation-dni-gis-data-glo
 ESA, Sentinel 2 
 
 https://scihub.copernicus.eu/
+
+# Weather Data
+
+MARETEC
+
+http://caboruivo.tecnico.ulisboa.pt:64104/api
+
+Libraries
+
+https://pvlib-python.readthedocs.io/en/0.1/_modules/pvlib/irradiance.html
