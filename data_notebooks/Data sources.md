@@ -31,6 +31,9 @@ http://caboruivo.tecnico.ulisboa.pt:64104/api
 SICO-IVM
 https://evm.min-saude.pt/
 
+GHSL - Global Human Settlement Layer
+https://ghsl.jrc.ec.europa.eu/index.php
+
 Libraries
 
 https://pvlib-python.readthedocs.io/en/0.1/_modules/pvlib/irradiance.html
