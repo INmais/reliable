@@ -12,6 +12,10 @@ https://globalsolaratlas.info/download/world
 
 https://energydata.info/dataset/world-direct-normal-irradiation-dni-gis-data-global-solar-atlas
 
+# Microdados INE (amostra)
+
+https://www.ine.pt/xportal/xmain?ine_smenu.boui=161302718&contexto=fct&xpgid=ine_bd_inv_fct&ine_smenu.selected=161302852&xpid=INE&selTab=fct
+
 # satellite imagery 
 
 ESA, Sentinel 2 
@@ -24,6 +28,11 @@ MARETEC
 
 http://caboruivo.tecnico.ulisboa.pt:64104/api
 
+SICO-IVM
+https://evm.min-saude.pt/
+
 Libraries
 
 https://pvlib-python.readthedocs.io/en/0.1/_modules/pvlib/irradiance.html
+
+https://www.euromomo.eu/how-it-works/methods/M
