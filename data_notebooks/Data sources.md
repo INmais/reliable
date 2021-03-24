@@ -6,6 +6,7 @@ Huld, T., Müller, R. and Gambardella, A., 2012. "A new solar radiation database
 
 https://ec.europa.eu/jrc/en/PVGIS/downloads/data
 
+https://re.jrc.ec.europa.eu/pvg_tools/en/#HR
 
 https://globalsolaratlas.info/download/world
 
@@ -13,5 +14,6 @@ https://energydata.info/dataset/world-direct-normal-irradiation-dni-gis-data-glo
 
 # satellite imagery 
 
-ESA, Sentinel 
-2https://scihub.copernicus.eu/
+ESA, Sentinel 2 
+
+https://scihub.copernicus.eu/
